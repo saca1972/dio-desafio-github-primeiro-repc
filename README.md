@@ -1,6 +1,6 @@
-# Repositório do desafio de Porjeto sobre Git/GitHub da DIO
+# Desafio de Porjeto sobre Git/GitHub da DIO
 
-Desafio de Projeto sobre Git/GitHub
+Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 ## Links úteis
 [Sintaxe Básica Marldown](https://www.markdownguide.org/basic-syntax/)
